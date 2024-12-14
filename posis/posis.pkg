@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'posis': Partialling-out estimator based on iterative sure independence screening Use posis With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f isis.ado
+f isis.sthlp
+f pocvsw.ado
+f posis.ado
+f posis.sthlp
+f posw.ado
+f posw.sthlp
+f poswbic_gmm_logit.ado
+f poswbic_gmm_pois.ado
