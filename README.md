@@ -1,6 +1,8 @@
 # posis
 Partialling-out estimator based on iterative sure independence screening Use posis With STATA 18
 
+https://www.youtube.com/watch?v=9h4SdsXwUT0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
